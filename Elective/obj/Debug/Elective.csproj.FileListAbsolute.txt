@@ -1,0 +1,47 @@
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\bin\Debug\Elective.exe.config
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\bin\Debug\Elective.exe
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\bin\Debug\Elective.pdb
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\obj\Debug\Elective.csprojAssemblyReference.cache
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\obj\Debug\Elective.LogIn.resources
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\obj\Debug\Elective.Properties.Resources.resources
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\obj\Debug\Elective.csproj.GenerateResource.cache
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\obj\Debug\Elective.csproj.CoreCompileInputs.cache
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\obj\Debug\Elective.exe
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\obj\Debug\Elective.pdb
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\obj\Debug\Elective.MainApp.resources
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\bin\Debug\Interop.WMPLib.dll
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\obj\Debug\Interop.WMPLib.dll
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\obj\Debug\Elective.csproj.ResolveComReference.cache
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\obj\Debug\Elective.oldcur11.resources
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\obj\Debug\Elective.PDFs.resources
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\obj\Debug\Elective.Videos.resources
+C:\Users\Philiam John\Documents\Visual Studio 2017\Elective\Elective\obj\Debug\Elective.newcur.resources
+C:\Users\user\Desktop\Elective\Elective\bin\Debug\Elective.exe.config
+C:\Users\user\Desktop\Elective\Elective\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\user\Desktop\Elective\Elective\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\Elective\Elective\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\user\Desktop\Elective\Elective\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\Elective\Elective\obj\Debug\Elective.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Elective\Elective\obj\Debug\Elective.exe
+C:\Users\user\Desktop\Elective\Elective\obj\Debug\Elective.pdb
+C:\Users\user\Desktop\Elective\Elective\bin\Debug\Elective.exe
+C:\Users\user\Desktop\Elective\Elective\bin\Debug\Elective.pdb
+C:\Users\user\Desktop\Elective\Elective\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\user\Desktop\Elective\Elective\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\Elective\Elective\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\user\Desktop\Elective\Elective\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\Elective\Elective\obj\Debug\Elective.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Elective\Elective\obj\Debug\Elective.LogIn.resources
+C:\Users\user\Desktop\Elective\Elective\obj\Debug\Elective.MainApp.resources
+C:\Users\user\Desktop\Elective\Elective\obj\Debug\Elective.newcur.resources
+C:\Users\user\Desktop\Elective\Elective\obj\Debug\Elective.oldcur11.resources
+C:\Users\user\Desktop\Elective\Elective\obj\Debug\Elective.PDFs.resources
+C:\Users\user\Desktop\Elective\Elective\obj\Debug\Elective.Properties.Resources.resources
+C:\Users\user\Desktop\Elective\Elective\obj\Debug\Elective.Videos.resources
+C:\Users\user\Desktop\Elective\Elective\obj\Debug\Elective.csproj.GenerateResource.Cache
